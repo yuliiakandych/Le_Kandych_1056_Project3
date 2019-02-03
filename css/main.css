@@ -1,0 +1,243 @@
+@charset "UTF-8";
+/*CSS Document*/
+
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	width: 1024px;
+	margin: auto;
+	font-size: 22px;
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: #fff;
+}
+h2
+{
+	color: #fff;
+	text-align: center;
+}
+
+#mainHeader
+{
+	height: 90px;
+	background-color: #66667c;
+}
+
+#logo
+{
+	float: left;
+	margin-top:17px;
+	margin-left: 60px;
+	width:65px; 
+	height:60px;
+	background-color: #4682a2;
+
+}
+#logo h2
+{	
+	
+	
+	font-size:18px;
+	margin-top: 17px;
+
+}
+
+#mainNav
+{
+	float: right;
+	margin-top:22px;
+	margin-right: 40px;
+	width: 777px;
+	height: 44px;
+	background-color: #003333;
+}
+
+#mainNav h2
+{
+	margin-top: 13px;
+}
+#heroImg
+{
+	background-color: #666699;
+	height: 365px;
+	
+}
+
+#heroImg h2
+{
+	position: absolute;
+	margin-top: 140px; 
+	margin-left: 470px;
+}
+
+#mainInfo
+{
+	height: 725px;
+	background-color: #62e1c1;
+}
+
+#mainInfo h2
+{
+	position: absolute;
+	margin-top: 318px; 
+	margin-left: 420px;
+}
+
+#promoImg
+{
+	height: 628px;
+	background-color: #666666;
+}
+
+
+#promoImg h2
+{
+	position: absolute;
+	margin-top: 250px; 
+	margin-left: 420px;
+}
+
+#promo2text
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#textInfo
+{
+	background-color: #669999;
+	width: 589px;
+	height: 437px;
+
+}
+
+#textInfo h2
+{
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 216px; 
+}
+
+#promoImg2
+{
+	background-color:#c7a99c; 
+	width: 436px;
+	height: 437px;
+}
+
+#promoImg2 h2
+{
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 155px; 
+}
+
+#textInfo2
+{
+	height: 413px;
+	background-color: #c29cc7;
+
+}
+
+#textInfo2 h2
+{
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 450px; 
+}
+
+#textInfo3 
+{
+	height: 529px;
+	background-color: #afc79c;
+}
+
+#textInfo3 h2
+{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 450px; 
+}
+
+
+#mainFooter
+{
+	height: 237px;
+	background-color: #075569;
+}
+#mainFooter h2
+{
+	position: absolute;
+	margin-top: 139px;
+	margin-left: 450px;
+}
+
+#logoFooter
+{
+	float: left;
+	margin-top:35px;
+	margin-left: 24px;
+	width:170px; 
+	height:152px;
+	background-color: #4682a2;
+
+}
+#logoFooter h2
+{	
+	
+	position: absolute;
+	font-size:16px;
+	margin-top: 50px;
+
+}
+
+#footerNav
+{
+	float: right;
+	width: 760px;
+	height: 44px;
+	background-color: #003333;
+}
+
+#footerNav h2
+{
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 450px;
+}
+
+#copyrightInfo
+{
+	position: absolute;
+	background-color: #00946f;
+	width: 330px;
+	height: 78px;
+	margin-top: 112px;
+	margin-left: 645px; 
+}
+#copyrightInfo h2
+{
+	position: absolute;
+	margin-top: 8px;
+	/*margin-left: 450px*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
